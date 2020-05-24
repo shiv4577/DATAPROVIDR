@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57552" started-at="2020-05-24T07:36:37Z" finished-at="2020-05-24T07:37:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57552" started-at="2020-05-24T07:36:37Z" finished-at="2020-05-24T07:37:35Z">
+      <class name="Merhod1.Method2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Merhod1.Method2@57fffcd7]" name="setup" is-config="true" duration-ms="9507" started-at="2020-05-24T07:36:39Z" finished-at="2020-05-24T07:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="method2(java.lang.String, java.lang.String)[pri:0, instance:Merhod1.Method2@57fffcd7]" name="method2" duration-ms="1553" started-at="2020-05-24T07:36:48Z" data-provider="getData" finished-at="2020-05-24T07:36:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shiv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Merhod1.Method2@57fffcd7]" name="setup" is-config="true" duration-ms="25884" started-at="2020-05-24T07:36:50Z" finished-at="2020-05-24T07:37:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="method2(java.lang.String, java.lang.String)[pri:0, instance:Merhod1.Method2@57fffcd7]" name="method2" duration-ms="5048" started-at="2020-05-24T07:37:16Z" data-provider="getData" finished-at="2020-05-24T07:37:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[moni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[45612.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Merhod1.Method2@57fffcd7]" name="setup" is-config="true" duration-ms="12209" started-at="2020-05-24T07:37:21Z" finished-at="2020-05-24T07:37:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="method2(java.lang.String, java.lang.String)[pri:0, instance:Merhod1.Method2@57fffcd7]" name="method2" duration-ms="1786" started-at="2020-05-24T07:37:33Z" data-provider="getData" finished-at="2020-05-24T07:37:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[somu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5646.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- Merhod1.Method2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
